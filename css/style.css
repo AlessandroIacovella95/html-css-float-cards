@@ -37,3 +37,7 @@ p {
 .title {
   color: #e53170;
 }
+
+.paragraph {
+  font-size: 20px;
+}
