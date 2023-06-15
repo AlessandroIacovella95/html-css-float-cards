@@ -10,6 +10,10 @@ img {
   max-width: 100%;
 }
 
+/* .debug {
+  border: 2px dashed black;
+} */
+
 /* # Utilities */
 
 .clearfix::after {
@@ -20,6 +24,16 @@ img {
 
 .container {
   max-width: 1000px;
-  margin: 0 auto;
+  margin: 20px auto;
   padding: 15px;
+  text-align: center;
+}
+
+h1,
+p {
+  margin-top: 20px;
+}
+
+.title {
+  color: #e53170;
 }
