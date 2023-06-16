@@ -49,6 +49,13 @@ p {
   color: white;
 }
 
+.card:hover{
+  cursor: pointer;
+  transform: scale(1.05);
+  box-shadow: 10px 10px 5px black;
+  filter: opacity(0.75);
+}
+
 .card-image-left {
   float: left;
   max-width: 120px;
